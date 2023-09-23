@@ -1,9 +1,9 @@
 const cacheName = "TEAM3-play.io-1.0";
 const contentToCache = [
     "Build/playioweb.loader.js",
-    "Build/playioweb.framework.js.gz",
-    "Build/playioweb.data.gz",
-    "Build/playioweb.wasm.gz",
+    "Build/playioweb.framework.js.unityweb",
+    "Build/playioweb.data.unityweb",
+    "Build/playioweb.wasm.unityweb",
     "TemplateData/style.css"
 
 ];
